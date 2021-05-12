@@ -16,14 +16,14 @@
 6. Locate suitable resources, software and tools for a data science project
 
 ### Key Assignment Projects:
-* [Assignment 1]() - Data exploration
+* [Assignment 1](https://github.com/heheheejin/fit1043/blob/main/Assignment%201/Assignment%20%201.ipynb) - Data exploration
   * Manipulate the data
   * Describe the data using basic statistics
   * Produce non-graphical and graphical visualisation to explore the data
   * Communicate your findings as business insights
   * Use a 3rd party tool to visualise (bonus)
 
-* [Assignment 2]() - Data classification
+* [Assignment 2](https://github.com/heheheejin/fit1043/blob/main/Assignment%202/Assignment%202.ipynb) - Data classification
   * Read and write data to a file in Python
   * Describe the data using basic statistics
   * Wrangle the data
@@ -32,7 +32,7 @@
   * Conduct classification and communicate the output of your analysis
   * Experience independent model evaluation.
 
-* [Assignment 3]() - Data classification
+* [Assignment 3](https://github.com/heheheejin/fit1043/blob/main/Assignment%203.pdf) - Data classification
   * Read a reasonably large dataset
   * Process the dataset using BASH Shell Scripts
   * Conduct aggregation of the dataset content
